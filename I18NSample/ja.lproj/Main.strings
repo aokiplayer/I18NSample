@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Text will be shown here."; ObjectID = "0Ae-dX-5hu"; */
+"0Ae-dX-5hu.text" = "ここに結果が表示されます。";
+
+/* Class = "UITextField"; placeholder = "Input here."; ObjectID = "ED0-WG-qJj"; */
+"ED0-WG-qJj.placeholder" = "入力してください";
+
+/* Class = "UIButton"; normalTitle = "Click me"; ObjectID = "Sae-Ov-cdq"; */
+"Sae-Ov-cdq.normalTitle" = "クリック";
